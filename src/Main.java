@@ -13,6 +13,7 @@ public class Main {
 count++;
         }
         System.out.println(count + ": The count of first family");
+        System.out.println();
 
         Families sfamilies1 = new SecondFamily();
         Families sfamilies2 = new SecondFamily();
@@ -25,6 +26,7 @@ count++;
 count1++;
         }
         System.out.println(count1 + ": The count of second family");
+        System.out.println();
 
         Families tfamilies1 = new ThirdFamily();
         Families tfamilies2 = new ThirdFamily();
@@ -38,6 +40,7 @@ count1++;
             count2++;
         }
         System.out.println(count2 + ": The count of third family");
+
 
 
     }
