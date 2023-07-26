@@ -6,7 +6,7 @@ public class FirstFamily extends Families {
 
     @Override
     public void payCommunalServices() {
-        System.out.println("Live in apartment");
+        System.out.println("Live in apartment and pay communal service");
 
     }
 }
